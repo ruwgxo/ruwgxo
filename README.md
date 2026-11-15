@@ -1,6 +1,6 @@
 **Raghav Dinesh**
 
-Security engineer focused on detection, security data pipelines, and automation.
+Security architect focused on security data, detection platforms and AI security.
 
 I work on the foundations that make detection and response useful: reliable telemetry, clear detection logic, and workflows that can be tested and maintained. My current focus is detection-as-code, cloud security data integration, and AI security.
 
